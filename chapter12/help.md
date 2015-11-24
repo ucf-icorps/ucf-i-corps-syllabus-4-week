@@ -36,6 +36,6 @@ Try to resolve it within your team. If the situation continues longer than a wee
 
 * What kind of feedback can I expect?
 
-* Continual feedback on a weekly basis. 
+  * Continual feedback on a weekly basis. 
 
-* Substandard quality work will be immediately brought to your attention.
+  * Substandard quality work will be immediately brought to your attention.
