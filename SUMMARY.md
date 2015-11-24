@@ -55,4 +55,4 @@
 * [FAQs](chapter12/readme.md)
     * [Attendance and Participation](chapter12/attendance.md)
     * [Intellectual Property](chapter12/ip.md)
-    * [Help!](help.md)
+    * [Help!](chapter12/help.md)
