@@ -40,5 +40,5 @@ Each week, you are expected to have an updated version of your entire Business M
 
 * Diagram of what you learned this week (e.g. customer workflow, payment flows, distribution channel diagram)
 
-===
+
 Feedback from the teaching team during oral presentations is where the most learning occurs. Due to the pace and tempo of the course, all course participants will be held accountable for completing the reading and video materials detailed in the syllabus covering the material for each class.
