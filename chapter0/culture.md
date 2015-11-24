@@ -1,0 +1,7 @@
+## Course Culture
+
+Startups communicate in a dramatically different style from the university or larger culture most of you are familiar with. At times it can feel brusque and impersonal, but in reality it is focused and oriented to create immediate action in time- and cash-constrained environments. We have limited time and we push, challenge, and question you in the hope you will quickly learn. We will be direct, open, and tough – just like the real world. We hope you can recognize that these comments aren’t personal, but part of the process. This approach may seem harsh or abrupt, but it is all part of our wanting you to learn to challenge yourselves quickly and objectively, and to appreciate that as entrepreneurs you need to learn and evolve faster than you ever imagined possible.
+
+This course pushes many people past their comfort zone. If you believe that your role of your instructors is to praise in public and criticize in private, you’re in the wrong course. Do not take this course. 
+
+If you come from a culture where receiving critiques in front of your peers – on a weekly basis – that may feel abrupt and brusque – embarrasses you, do not take this course. It’s not personal, but it is by design a part of the course to emulate the pace, uncertainty, and pressures of a startup. In return, we also expect you to question us, challenge our point of view if you disagree, and engage in a real dialog with the teaching team.
