@@ -1,0 +1,3 @@
+## The Flipped Classroom
+
+Unlike a traditional classroom where the instructor presents lecture material, our lectures are online at Udacity.com. Watching the assigned lectures is part of your weekly preparations. The information in them is essential for you to complete your weekly interviews and present the insights the teaching team will expect in your presentation for that week. We expect you to watch the assigned lectures for the upcoming week before class and we will use time in class to discuss questions about the lecture material and to provide supplemental material. You need to come prepared with questions or comments about the material for in-class discussion. We will cold-call, question you, about the online lecture material.
