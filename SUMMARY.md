@@ -1,13 +1,13 @@
 # Summary
 
-* [Syllabus](readme.md)
+* [Syllabus](README.md)
     * [Instructors](instructors.md)
     * [Texts](texts.md)
     * [Online Lectures](lectures.md)
     * [Online Platform](platform.md)
     * [Prerequisite](pre-req.md)
     * [Goal](goal.md)
-* [Coarse Description](chapter0/readme.md)
+* [Course Description](chapter0/readme.md)
     * [The Flipped Classroom](chapter0/flipped-class.md)
     * [Experential Learning](chapter0/exp-learning.md)
     * [Team Teaching and the Inverted Lecture Hall](chapter0/team-teaching.md)
