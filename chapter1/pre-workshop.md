@@ -8,6 +8,4 @@
 
 * Develop a list of planned expenditures, totaling $2,550
 
-  * Planned expenditures may include travel, events, materials and supplies
-
-  * Events include trade shows, conferences, or any other event where you may gather valuable customer feedback
+  * See [allowable expenses](./allowable-expenses.md) section, on what you may spend I-Corps funds on
