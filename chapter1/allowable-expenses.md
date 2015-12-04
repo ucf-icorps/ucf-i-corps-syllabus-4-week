@@ -9,4 +9,4 @@ I-Corps funds are to be used for Customer Discovery and MVP development.
 * MVP development: Any expense incurred in developing an MVP. MVP stands for “minimum viable product”. The MVP is used during interviews to show the customer specific features of the product, or to give a deeper level of understanding of the product than words alone, in order to gain better feedback on what’s good/bad/valuable about the product. The MVP can be a fully functional product, a prototype, a model, a diagram, a wire frame, a poster board, a card-board cutout, or anything else that demonstrates how the product will be used, what it may look like and/or what features it will have. The money may be used to develop this MVP, procure supplies and materials necessary for development, and/or for paying contractors (outside of the team) to build specific features or aspects of the MVP.
     * No member of the team may pay themselves stipends, labor costs, etc.
     
-I-Corps funds may not be used for any administrative, legal, or entertainment expenses.
+**I-Corps funds may not be used for any administrative, legal, or entertainment expenses.**
