@@ -24,26 +24,6 @@ Teams will present a 8-minute "Lessons Learned" presentation about what they lea
 
 * Slide 2: Team members – name, background, expertise, and roles on the team.
 
-    * Storytelling
-
-        * The World: Market/opportunity, how does it operate?
-
-        * The Characters: Customer's/Value Proposition/ product-market fit; pick a few examples to illustrate
-
-        * Narrative Arc: Lessons learned how? Enthusiasm, despair, learning then insight
-
-        * Show us: Images and demo to illustrate  learning = wireframes and pivots to finished product
-
-        * Editing: Does each slide advance the character and plot (learning)
-
-    * Theater
-
-        * Point me at what you want me to see
-
-        * Ought to be self-explanatory
-
-        * Use analogies
-
 * Slide 3: Business Model Canvas Version 1 (use the Osterwalder Canvas, do not make up your own): "Here was our original idea."
 
 * Slide 4: "So here’s what we did…" (explain how you got out of the building). 
@@ -61,6 +41,28 @@ Teams will present a 8-minute "Lessons Learned" presentation about what they lea
     * Whether you want to pursue it after the class, etc.
 
 * Final Slides: Click through each one of your Business Model Canvas slides.
+
+### Story Structure
+
+ * Storytelling
+
+     * The World: Market/opportunity, how does it operate?
+
+     * The Characters: Customer's/Value Proposition/ product-market fit; pick a few examples to illustrate
+
+     * Narrative Arc: Lessons learned how? Enthusiasm, despair, learning then insight
+
+     * Show us: Images and demo to illustrate  learning = wireframes and pivots to finished product
+
+     * Editing: Does each slide advance the character and plot (learning)
+
+ * Theater
+
+     * Point me at what you want me to see
+
+     * Ought to be self-explanatory
+
+     * Use analogies
 
 ### Final Presentation Tips
 
