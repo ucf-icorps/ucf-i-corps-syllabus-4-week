@@ -22,7 +22,7 @@
 * [Pre-class Workshop](chapter1/readme.md)
     * [Pre-Workshop Assignments](chapter1/pre-workshop.md)
     * [Workshop Agenda](chapter1/agenda.md)
-    * [Allowable Expenses] (chapter1/allowable-expenses.md)
+    * [Allowable Expenses](chapter1/allowable-expenses.md)
 * [Week 1 - BMC and Customer Development](chapter2/readme.md)
     * [Pre-class Prep](chapter2/pre-class.md)
     * [In class](chapter2/in-class.md)
