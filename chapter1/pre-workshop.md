@@ -8,4 +8,4 @@
 
 * Develop a list of planned expenditures, totaling $2,550
 
-  * See [allowable expenses](./allowable-expenses.md) section, on what you may spend I-Corps funds on
+  * See [allowable expenses](../chapter0/allowable-expenses.md) section, on what you may spend I-Corps funds on
