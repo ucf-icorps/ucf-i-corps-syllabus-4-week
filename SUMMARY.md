@@ -19,6 +19,7 @@
     * [Deliverables](chapter0/deliverables.md)
     * [Course Roadmap](chapter0/roadmap.md)
     * [Guidelines for Team Presentations](chapter0/presentation-guideline.md)
+    * [Office Hours](chapter0/office-hours.md)
 * [Pre-class Workshop](chapter1/readme.md)
     * [Pre-Workshop Assignments](chapter1/pre-workshop.md)
     * [Workshop Agenda](chapter1/agenda.md)
