@@ -1,3 +1,5 @@
+## Allowable Expenses
+
 I-Corps funds are to be used for Customer Discovery and MVP development.
 
 * Customer Discovery: Any expense related to finding, setting, and conducting interviews/meetings with individuals or groups who the PI, El, Mentor and team thinks will benefit from the product, or who can give insights as to what a customer for this product would want or find valuable. This includes admission to events such as tradeshows and conferences; travel expenses incurred in traveling to the interview/meeting/event; and any other expense that comes about as a direct result of engaging in these customer interviews.
