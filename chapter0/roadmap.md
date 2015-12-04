@@ -12,7 +12,7 @@ Each week’s class is organized around participants hypothesis-testing their bu
 
 * Attending mandatory office hours.
 
-* Watching the Udacity lecture for the week and preparing questions for discussion.
+* Watching the lecture(s) for the week and preparing questions for discussion.
 
 * Receiving comments and suggestions from other teams and the teaching team on the lessons learned.
 
