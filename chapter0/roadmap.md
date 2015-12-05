@@ -4,7 +4,7 @@ Each week’s class is organized around participants hypothesis-testing their bu
 
 * Talking to 10-15 customers.
 
-* Capturing their Customer Discovery progress by using the [LaunchPad Central Platform](../platform.md) ) and updating their Business Model Canvas.
+* Capturing their Customer Discovery progress by using the [LaunchPad Central Platform](../platform.md) and updating their Business Model Canvas.
 
 * Taking what they learned and assembling a 10-minute Lessons Learned Presentation.
 
