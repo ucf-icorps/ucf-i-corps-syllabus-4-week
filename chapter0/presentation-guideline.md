@@ -7,16 +7,16 @@ Each week, you are expected to have an updated version of your entire Business M
 ### Slide 1: Cover slide
 
 * Team name
-
     * Team members/roles
+
 
 * Number of customers spoken to this week
 
 * Three sentence description about what the team does and why your audience should care
 
 * Market Size (TAM – total addressable market, SAM – Serviceable Addressable Market,   TM – Target Market) did it change this week?
-
     * Exported from LaunchPad Central
+
 
 ### Slide 2: Updated Business Model Canvas 
 
