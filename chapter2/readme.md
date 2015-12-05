@@ -1,3 +1,3 @@
 # Class 1: Business Model and Customer Development 
 
-![BMC](/bmc.png "bmc")
+![BMC](./bmc.png "bmc")
