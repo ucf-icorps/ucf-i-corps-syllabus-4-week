@@ -1,6 +1,6 @@
 ## Online Platform
 
-[LaunchPad Central](https://launchpadcentral.com](https://launchpadcentral.com) will be a key resource for teams throughout the I-Corps program.
+[LaunchPad Central](https://launchpadcentral.com) will be a key resource for teams throughout the I-Corps program.
 
 ### Uses of the LPC
 
