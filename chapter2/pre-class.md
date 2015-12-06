@@ -6,15 +6,11 @@ Conduct 10-15 Customer Interviews on your initial Business Model Canvas hypothes
 
 ### Reading/Viewing
 
-* Watch Flipped Classroom Videos
+* Watch
 
-    * Customer Discovery Best Practice
+    * Flipped Classroom videos in LaunchPad Central
 
-    * 1: What We Now Know
-
-        * 1.5A:  Business Models and Customer Development
-
-        * 1.5B: Business Models and Customer Development
+        * Lecture 2: Value Proposition
 
     * Customer Discovery Checklist: [http://startupweekend.wistia.com/projects/zt618zz0r7](http://startupweekend.wistia.com/projects/zt618zz0r7)
 
