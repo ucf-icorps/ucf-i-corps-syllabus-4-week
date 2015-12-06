@@ -10,7 +10,7 @@
 
     2. 3 min. Q & A critiques with Teaching Team
 
-3. Lecture on Customer Channels - 30 min.
+3. Lecture on Final Presentations - 30 min.
 
 ### Concepts Participants Should Understand
 
