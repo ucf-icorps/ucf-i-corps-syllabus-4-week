@@ -6,9 +6,13 @@ Conduct 10-15 Customer Interviews.
 
 ### Reading/Viewing
 
-* Watch
+* Watch past teams’ final presentations
 
-    * Watch Lecture 3 in LaunchPad Central: Customer Segments
+    * UCF cohort 1: [https://www.youtube.com/watch?v=SfABV6mBPJM&list=PLdHqjJDHcWzmuC2UBEyUKUQW7V7mWurgr](https://www.youtube.com/watch?v=SfABV6mBPJM&list=PLdHqjJDHcWzmuC2UBEyUKUQW7V7mWurgr) 
+
+    * UCF cohort 3: [https://www.youtube.com/watch?v=a_ZQVuREGUk&list=PLdHqjJDHcWzmJL6tdBr3t5yjR6YaG0-fL](https://www.youtube.com/watch?v=a_ZQVuREGUk&list=PLdHqjJDHcWzmJL6tdBr3t5yjR6YaG0-fL) 
+
+    * See [http://www.slideshare.net/sblank](http://www.slideshare.net/sblank) for more examples
 
 * Read
 
