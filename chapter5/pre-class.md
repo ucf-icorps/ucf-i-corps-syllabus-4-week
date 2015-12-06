@@ -6,7 +6,7 @@ Conduct final 10-15 Customer Interviews
 
 ### Reading/Viewing:
 
-* Watch past teams’ final presentations
+* Review past teams’ final presentations
 
     * UCF cohort 1: [https://www.youtube.com/watch?v=SfABV6mBPJM&list=PLdHqjJDHcWzmuC2UBEyUKUQW7V7mWurgr](https://www.youtube.com/watch?v=SfABV6mBPJM&list=PLdHqjJDHcWzmuC2UBEyUKUQW7V7mWurgr) 
 
