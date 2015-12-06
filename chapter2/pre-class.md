@@ -9,7 +9,6 @@ Conduct 10-15 Customer Interviews on your initial Business Model Canvas hypothes
 * Watch
 
     * Flipped Classroom videos in LaunchPad Central
-
         * Lecture 2: Value Proposition
 
     * Customer Discovery Checklist: [http://startupweekend.wistia.com/projects/zt618zz0r7](http://startupweekend.wistia.com/projects/zt618zz0r7)
