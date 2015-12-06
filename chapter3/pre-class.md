@@ -6,6 +6,14 @@ Conduct 10-15 Customer Interviews  to generate findings.
 
 ### Reading/Viewing	
 
+* Watch 
+
+    * Flipped Classroom videos in LaunchPad Central
+
+       * Lecture 3: Customer Segments
+
+    * Watch Mark Pincus:    [http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2313](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2313)
+
 * Read 
 
     * BMG 
@@ -27,14 +35,6 @@ Conduct 10-15 Customer Interviews  to generate findings.
    * Osterwalder Value Proposition Canvas
         * [http://businessmodelalchemist.com/blog/2012/08/achieve-product-market-fit-with-our-brand-new-value-proposition-designer.html](http://businessmodelalchemist.com/blog/2012/08/achieve-product-market-fit-with-our-brand-new-value-proposition-designer.html)
        * [http://businessmodelalchemist.com/blog/2012/09/test-your-value-proposition-supercharge-lean-startup-and-custdev-principles.html](http://businessmodelalchemist.com/blog/2012/09/test-your-value-proposition-supercharge-lean-startup-and-custdev-principles.html)
-
-* Watch 
-
-    * Flipped Classroom videos in LaunchPad Central
-
-       * Lecture 3: Customer Segments
-
-    * Watch Mark Pincus:    [http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2313](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2313)
 
 ### Presentations: Value Proposition
 
