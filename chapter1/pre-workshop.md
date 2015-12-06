@@ -4,7 +4,7 @@
 
 * Watch Flipped Classroom videos in LaunchPad Central
 
-* Customer Discovery Best Practice
+    * Customer Discovery Best Practice
  
     * Lecture 1: What We Now Know
  
