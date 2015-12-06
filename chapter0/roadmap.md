@@ -18,14 +18,14 @@ Each week’s class is organized around participants hypothesis-testing their bu
 
 ### In the classroom
 
-* Q&A about what happened during the past week’s Discovery.
-
 * Team presentations and instructor critiques.
 
-* Discussion about the online lecture you just watched on one of the nine building blocks of a business model to help prepare you for next week’s Discovery (see diagram below, taken from Business Model Generation
+* Q&A about what happened during the past week’s Discovery.
 
-The work you will be presenting will be based on the Udacity lecture you watched the prior week. The lecture you watch just before classes, and the in-class lecture, will cover the upcoming week’s business model topic to prepare you for the discovery tasks for this week. That means we expect you to have watched that lecture prior to the course.
+* Discussion about the online lecture you just watched on one of the nine building blocks of a business model to help prepare you for next week’s Discovery.
 
-For example, when you arrive for Course 4, where you will be presenting your work on Customer Relationships, you are expected to have just watched the Customer Relationships lecture on Udacity. You should come prepared with any questions or comments about Customer Relations for in-class discussion, (which will occur at the end of the team presentations on Customer Channels).
+The work you will be presenting will be based on the lecture you watched the prior week. The lecture you watch just before classes, and the in-class lecture, will cover the upcoming week’s business model topic to prepare you for the discovery tasks for that week. That means we expect you to have watched that lecture prior to the class.
+
+For example, when you arrive for Class 2, where you will be presenting your work on Value Proposition, you are expected to have just watched the Customer Segments lecture on LaunchPad Central. You should come prepared with any questions or comments about Customer Segments for in-class discussion (which will occur at the end of the team presentations on Value Proposition).
 
 Each week you are expected to have an updated version of your entire Business Model Canvas, but your Customer Discovery should focus primarily on the topic from the previous class’s lecture and pre-class readings and videos.
