@@ -9,7 +9,6 @@ Conduct 10-15 Customer Interviews  to generate findings.
 * Watch 
 
     * Flipped Classroom videos in LaunchPad Central
-
        * Lecture 3: Customer Segments
 
     * Watch Mark Pincus:    [http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2313](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2313)
