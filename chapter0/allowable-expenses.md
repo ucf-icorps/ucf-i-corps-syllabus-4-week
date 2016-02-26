@@ -2,7 +2,7 @@
 
 I-Corps funds are to be used for Customer Discovery and MVP development.
 
-* Customer Discovery: Any expense related to finding, setting, and conducting interviews/meetings with individuals or groups who the PI, El, Mentor and team thinks will benefit from the product, or who can give insights as to what a customer for this product would want or find valuable. This includes admission to events such as tradeshows and conferences; travel expenses incurred in traveling to the interview/meeting/event; and any other expense that comes about as a direct result of engaging in these customer interviews.
+* Customer Discovery: Expenses related to finding, setting, and conducting interviews/meetings with individuals or groups who the PI, El, Mentor and team thinks will benefit from the product, or who can give insights as to what a customer for this product would want or find valuable. This includes admission to events such as trade shows and conferences; travel expenses incurred in traveling to the interview/meeting/event; and any other expense that comes about as a direct result of engaging in these customer interviews.
     * Per Diem is allowable up to $30 per day per individual, only if outside of a 50 mile radius of UCF, and only if staying overnight at a location
        * Per Diem is not allowable if attending an event which includes meals in the entry fee
        * Per Diem must be spent on team members only. It may not be used to purchase the meal of the interviewee or any other outside individual (i.e. no wining and dining)
