@@ -14,7 +14,7 @@ Your mentor will join in the classroom every week. You can email them or meet wi
 
 ### I need help now.
 
-Your first stop is your TAs. Email or sit down with them during the week if you have a problem. If you need something resolved sooner, email us on [icorps@ucf.edu](mailto:icorps@ucf.edu).
+Your first stop is your TAs. Email or sit down with them during the week if you have a problem. If you need something resolved sooner, email the Program Coordinator.
 
 ### Who are the mentors?
 
