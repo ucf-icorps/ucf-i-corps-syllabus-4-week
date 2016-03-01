@@ -10,7 +10,10 @@ Conduct final 10-15 Customer Interviews
 
     * UCF cohort 1: [https://www.youtube.com/watch?v=SfABV6mBPJM&list=PLdHqjJDHcWzmuC2UBEyUKUQW7V7mWurgr](https://www.youtube.com/watch?v=SfABV6mBPJM&list=PLdHqjJDHcWzmuC2UBEyUKUQW7V7mWurgr) 
 
-    * UCF cohort 3: [https://www.youtube.com/watch?v=a_ZQVuREGUk&list=PLdHqjJDHcWzmJL6tdBr3t5yjR6YaG0-fL](https://www.youtube.com/watch?v=a_ZQVuREGUk&list=PLdHqjJDHcWzmJL6tdBr3t5yjR6YaG0-fL) 
+    * UCF cohort 2: [https://www.youtube.com/watch?v=a_ZQVuREGUk&list=PLdHqjJDHcWzmJL6tdBr3t5yjR6YaG0-fL](https://www.youtube.com/watch?v=a_ZQVuREGUk&list=PLdHqjJDHcWzmJL6tdBr3t5yjR6YaG0-fL) 
+    
+    * UCF cohort 3:
+     https://www.youtube.com/playlist?list=PLGaBHo6jQHOt-frwb-G1N_Gdhj-2uiHxB 
 
     * See [http://www.slideshare.net/sblank](http://www.slideshare.net/sblank) for more examples
 
